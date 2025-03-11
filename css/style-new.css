@@ -295,9 +295,13 @@ header .right-part .nav2 ul li a {
   font-size: 19px;
   text-align: right;
   direction: rtl;
+  margin-bottom: 8px;
 }
 #rtl .welcome-page strong, #rtl .theme-page strong, #rtl .welcome-page h4, #rtl .theme-page h4 {
   font-family: bejanBold;
+}
+#rtl .rtl.welcome-page ul li{
+  list-style: disc;
 }
 /* end banner_1 */
 
