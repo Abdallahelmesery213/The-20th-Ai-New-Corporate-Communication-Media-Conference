@@ -303,6 +303,10 @@ header .right-part .nav2 ul li a {
 #rtl .rtl.welcome-page ul li{
   list-style: disc;
 }
+#rtl .bnr .text{
+  position: relative;
+  margin-top: 20%;
+}
 /* end banner_1 */
 
 /* start counter */

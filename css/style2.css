@@ -356,16 +356,25 @@ h2 {
 }
 .bnr-2 {
   padding: 30px 0;
-  background-image: url("https://datamatixgroup.com/pubres/20th%20GCC%20AI-Banking%20Summit/images/img_21-05.jpg");
+  background-image: url("https://datamatixgroup.com/pubres/The%2020th%20Ai%20New%20%20Corporate%20Communication%20Media%20Conference/arabic%20images/Asset%2024.jpg");
 }
-.bnr-3{
+.bnr-3 {
   padding: 30px 0;
-  background-image: url(../images/images2/center_img_3-02.jpg);
+  background-image: url("https://datamatixgroup.com/pubres/The%2020th%20Ai%20New%20%20Corporate%20Communication%20Media%20Conference/arabic%20images/Asset%2025.jpg");
 }
-.bnr-23{
+.bnr-4 {
   padding: 30px 0;
-  background-image: url("https://datamatixgroup.com/pubres/20th%20GCC%20AI-Banking%20Summit/images/img_22-05.jpg");
+  background-image: url("https://datamatixgroup.com/pubres/The%2020th%20Ai%20New%20%20Corporate%20Communication%20Media%20Conference/arabic%20images/Asset%2026.jpg");
 }
+.bnr-5 {
+  padding: 30px 0;
+  background-image: url("https://datamatixgroup.com/pubres/The%2020th%20Ai%20New%20%20Corporate%20Communication%20Media%20Conference/arabic%20images/Asset%2027.jpg");
+}
+.bnr-6 {
+  padding: 30px 0;
+  background-image: url("https://datamatixgroup.com/pubres/The%2020th%20Ai%20New%20%20Corporate%20Communication%20Media%20Conference/arabic%20images/Asset%2025.jpg");
+}
+
 .bnr-3 .btn {
   margin-left: 50%;
 }
@@ -384,12 +393,12 @@ h2 {
   /* margin-top: 210px; */
   /* padding-left:50px; */
 }
-.bnr-4 h3{
+/* .bnr-4 h3{
   color: #fff;
   font-family: BruumFY-Regular;
   font-size: 30px;
   margin-top: 170px;
-}
+} */
 .bnr-4 p{
   color: #fff;
 }
@@ -419,10 +428,10 @@ h2 {
   padding: 30px 0;
   background-image: url("https://datamatixgroup.com/pubres/20th%20GCC%20AI-Banking%20Summit/images/img_23-05.jpg");
 }
-.bnr-4{
+/* .bnr-4{
   padding: 30px 0;
   background-image: url(../images/images2/center_img_4-02.jpg);
-}
+} */
 .datmatix img {
   width: 300px;
 }
