@@ -518,6 +518,120 @@ header .right-part .nav2 ul li a {
   margin-bottom: 25px;
 }
 
+/* start agenda-screen */
+/* .agenda-screen header .right-part .nav3 a {
+    margin-right: 8px !important;
+} */
+#rtl .agenda-screen{
+  text-align: right;
+  direction: rtl;
+ }
+.agenda-screen .event-agenda{
+  /* background-color: #f1f1f2; */
+  padding: 40px;
+  margin-top: 30px;
+}
+.agenda-screen .btn.btn-danger a{
+  color: #fff;
+}
+.agenda-screen .nav.nav-pills{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.event-agenda nav{
+  background-color: #e6e7e8;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  display: inline-flex;
+}
+.event-agenda nav button.nav-link{
+  background-color: #fff;
+  border-radius: 0;
+  margin: 0 5px;
+  width: 45%;
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+  padding: 8px 16px;
+}
+.agenda-screen .photo-gallery a{
+  text-decoration: none;
+  color: #fff;
+}
+.event-agenda .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  /* background-color: var(--main-color); */
+  background-color: #ff0000;
+}
+.event-agenda h5{
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.agenda-screen .agenda-section{
+  padding-left: 20px;
+  /* padding-top: 5px; */
+  /* padding-bottom: 5px; */
+  /* background-color: #e6e7e8; */
+  /* border-bottom: 3px solid #fff; */
+  min-height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.agenda-screen .agenda-section p{
+  margin-bottom: 0;
+  font-size: 17px;
+  /* color: #ff0000; */
+  font-family: bruumBold;
+}
+#rtl .agenda-screen .row1 p{
+  font-family: bejanBold;
+  font-size: 20px;
+}
+#rtl .agenda-screen .row2 p{
+  font-family: bejanSemiBold;
+  font-size: 16px;
+}
+#rtl .agenda-screen .agenda-section .row1{
+  padding: 8px;
+}
+#rtl .agenda-screen .agenda-section .row2{
+  padding: 8px;
+}
+#rtl .agenda-screen .agenda-section .row span{
+  color: var(--main-color);
+  font-family: bejanBold;
+  font-size: 20px;
+}
+.agenda-screen .agenda-section .row .col-md-2 p{
+  /* color: var(--main-color); */
+  color: #ff0000;
+  font-family: bruumBold;
+}
+.agenda-screen .agenda-section .row1{
+  background-color: #e6e7e8;
+  padding: 16px;
+}
+.agenda-screen .agenda-section .row2{
+  padding: 16px;
+}
+.agenda-screen .agenda-section .row2 p{
+  font-size: 16px;
+  font-family: bruumFont;
+  font-weight: bold;
+}
+.agenda-screen .agenda-section ul{
+  padding-left: 1rem;
+  margin-top: 5px;
+}
+.agenda-screen .agenda-section ul li{
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+/* end agenda-screen */
+
 /* start footer */
 footer {
   padding: 50px 0 0;
